@@ -1,3 +1,5 @@
+
+
 const API_URL = "https://restcountries.com/v3.1/all";
 
 function reqListener() {
@@ -5,7 +7,7 @@ function reqListener() {
     //this.responseText;
     console.log(countriesData);
     for(let ind = 0; ind < countriesData.length; ind++) {
-        console.log(countriesData[ind].name.common,countriesData[ind].region,countriesData[ind].subregion,countriesData[ind].population);
+        console.log(countriesData[ind].flags.png);
     } 
 }
 

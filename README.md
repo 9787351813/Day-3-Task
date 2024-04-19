@@ -7,10 +7,10 @@
 
   **2. Display Flags for all the countries**
      1.Create html file and added Script.js  
-     2.In script.js added all the code to get the data from[restcountries](https://restcountries.com/v3.1all) and display all the countries flags.
-     3.the code is in the [display all the countries flags](./display%20all%20the%20countries%20flags/)folder
+     2.In script.js added all the code to get the data from[restcountries API](https://restcountries.com/v3.1all) and display all the countries flags.
+     3.the code is in the [display countries flags](./display%20countries%20flags/)folder
 
  **3. Display all countries name, region, subregion, population**    
      1.Create html file and added Script.js  
-     2.In script.js added all the code to get the data from[restcountries](https://restcountries.com/v3.1all) and display all the countries name, region, subregion, population.
-     3.the code is in the [display name, region, subregion, population](./display%20name%20region%20subregion%20population/)folder
+     2.In script.js added all the code to get the data from[restcountries API](https://restcountries.com/v3.1all) and display all the countries name, region, subregion, population.
+     3.the code is in the [display countries details](./display%20countries%20details/)folder
